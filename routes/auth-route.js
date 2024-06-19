@@ -6,4 +6,6 @@ authRouter.post("/register", () => {
   console.log("Register...");
 });
 
+// asd
+
 module.exports = authRouter;
